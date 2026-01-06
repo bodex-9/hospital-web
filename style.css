@@ -1150,5 +1150,13 @@ font-size: 16px;
     margin: 0 7px;
     font-size: 13px;
    }
+   .btn-primary
+   {
+    display: block;
+    width: 55%;
+    margin-bottom: 1.7rem;
+   }
 }
+}
+
 /* end responsiveness */
